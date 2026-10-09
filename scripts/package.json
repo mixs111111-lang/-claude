@@ -1,0 +1,7 @@
+{
+  "name": "weekly-real-estate-report",
+  "private": true,
+  "description": "부산 서부권 34평 비교 보고서(docx) 생성기",
+  "scripts": { "weekly": "bash run_weekly.sh" },
+  "dependencies": { "docx": "^9.5.1" }
+}
